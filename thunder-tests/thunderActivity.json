@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "7b57c490-0949-4dbf-8f5d-12070420f8fb",
+    "colId": "history",
+    "containerId": "",
+    "name": "https://maps.googleapis.com/maps/api/directions/json?origin=Disneyland&destination=Universal+Studios+Hollywood&key=AIzaSyAPngCtyOsTtY-5MRHW4kuPFY8Ccr5i42g",
+    "url": "https://maps.googleapis.com/maps/api/directions/json?origin=Disneyland&destination=Universal+Studios+Hollywood&key=AIzaSyAPngCtyOsTtY-5MRHW4kuPFY8Ccr5i42g",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2022-11-04T04:07:23.298Z",
+    "modified": "2022-11-04T04:07:24.335Z",
+    "headers": [],
+    "params": [
+      {
+        "name": "origin",
+        "value": "Disneyland",
+        "isPath": false
+      },
+      {
+        "name": "destination",
+        "value": "Universal+Studios+Hollywood",
+        "isPath": false
+      },
+      {
+        "name": "key",
+        "value": "AIzaSyAPngCtyOsTtY-5MRHW4kuPFY8Ccr5i42g",
+        "isPath": false
+      }
+    ],
+    "tests": []
+  }
+]
